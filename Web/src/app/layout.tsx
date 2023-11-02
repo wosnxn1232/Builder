@@ -18,12 +18,12 @@ export default function RootLayout({
       <body>
         <Providers>
           <Navbar />
-          <div align='center'>
+          <div>
             {children}
           </div>
           <Footer />
         </Providers>
       </body>
-    </html>
+    </html >
   )
 }

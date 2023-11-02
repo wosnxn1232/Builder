@@ -1,6 +1,6 @@
-<div align = center>
+<div align='center'>
 
-<img src="./.assets/DogDayAndroid.png" width="200" height="175" alt="banner">
+<img src="./.assets/DogDayAndroid.png" width="200" height="175" alt="banner" />
 
 <h1>构建属于你自己的安卓内核镜像</h1>
 
@@ -8,15 +8,16 @@
 ![Language](https://img.shields.io/github/languages/top/DogDayAndroid/Android-Kernel-Builder)
 ![Issues](https://img.shields.io/github/issues/DogDayAndroid/Android-Kernel-Builder)
 ![Pull Requests](https://img.shields.io/github/issues-pr/DogDayAndroid/Android-Kernel-Builder)
+<br/>
 
 这个 Github Action 可以帮助你构建内核。它可以从一个配置文件中读取多个内核源，并使用不同的工具链构建它们。此外，它还支持使用 KernelSU 进行内核补丁，并上传构建好的内核镜像。
-<br>
+<br/>
 
 ---
 
-**[<kbd> <br>  配置文件使用方法  <br> </kbd>](#配置文件解析)** 
-**[<kbd> <br>  快速开始  <br> </kbd>](#使用方法)** 
-**[<kbd> <br>  本地构建  <br> </kbd>](#本地构建)**
+**[<kbd> <br/>  配置文件使用方法  <br/> </kbd>](#配置文件解析)** 
+**[<kbd> <br/>  快速开始  <br/> </kbd>](#使用方法)** 
+**[<kbd> <br/>  本地构建  <br/> </kbd>](#本地构建)**
 
 ---
 
@@ -158,4 +159,4 @@ act --artifact-server-path /tmp/artifacts -v
 
 # 许可
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。

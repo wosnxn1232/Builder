@@ -1,6 +1,6 @@
-<div align = center>
+<div align='center'>
 
-<img src="./.assets/DogDayAndroid.png" width="200" height="175" alt="banner">
+<img src="./.assets/DogDayAndroid.png" width="200" height="175" alt="banner" />
 
 <h1>Build Your Own Kernel with Github Action</h1>
 
@@ -10,16 +10,16 @@ English | [中文](./README_cn.md)
 ![Language](https://img.shields.io/github/languages/top/DogDayAndroid/Android-Kernel-Builder)
 ![Issues](https://img.shields.io/github/issues/DogDayAndroid/Android-Kernel-Builder)
 ![Pull Requests](https://img.shields.io/github/issues-pr/DogDayAndroid/Android-Kernel-Builder)
-<br>
+<br/>
 
 This Github Action helps you build kernels. It reads multiple kernel sources from a configuration file and builds them using different toolchains. Additionally, it supports patching the kernel with KernelSU and uploading the built kernel image.
-<br>
+<br/>
 
 ---
 
-**[<kbd> <br>  Configure  <br> </kbd>](#configuration-file-syntax)** 
-**[<kbd> <br>  Quick Start  <br> </kbd>](#how-to-use)** 
-**[<kbd> <br>  Local testing  <br> </kbd>](#local-testing)**
+**[<kbd> <br/>  Configure  <br/> </kbd>](#configuration-file-syntax)**
+**[<kbd> <br/>  Quick Start  <br/> </kbd>](#how-to-use)**
+**[<kbd> <br/>  Local testing  <br/> </kbd>](#local-testing)**
 
 ---
 
@@ -161,4 +161,4 @@ This is just a suggestion, and we do not provide a specific guide.
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

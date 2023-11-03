@@ -5,6 +5,8 @@ env:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '14 13 * * 5'
 
 jobs:
   Set-repos:
